@@ -216,6 +216,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AsyncAwait.cs" />
     <Compile Include="ConcurrentCollections.cs" />
     <Compile Include="DataSharing.cs" />
     <Compile Include="ParallelLinq.cs" />
